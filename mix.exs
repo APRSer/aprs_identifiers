@@ -28,7 +28,6 @@ defmodule APRSParser.MixProject do
 
   defp deps do
     [
-      {:jason, "~> 1.4"},
       {:ex_doc, "~> 0.30.8", only: :dev, runtime: false}
     ]
   end

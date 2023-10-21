@@ -6,7 +6,7 @@
 [![hex.pm](https://img.shields.io/hexpm/l/aprs_parser.svg)](https://hex.pm/packages/aprs_parser)
 
 Elixir package used for parsing APRS packets. 
-This package uses a copy of the tocalls.json device id database from the [aprsorg/aprs-deviceid repository](https://github.com/aprsorg/aprs-deviceid).
+This package uses data taken from the tocalls master file from [aprsorg/aprs-deviceid repository](https://github.com/aprsorg/aprs-deviceid) for identifying APRS software and devices.
 
 ## Installation
 
