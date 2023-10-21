@@ -12,7 +12,7 @@ defmodule APRSParser.MixProject do
       elixir: "~> 1.15",
       build_embedded: Mix.env() == :prod,
       start_permanent: Mix.env() == :prod,
-      description: "APRS software and device identifiers",
+      description: "APRS packet parser",
       deps: deps(),
       package: package(),
       docs: docs(),
